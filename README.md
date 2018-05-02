@@ -1,0 +1,2 @@
+# SmartFinder
+In todays era due to high workload and changing lifestyle, people hardly find time to look for local service providers.  Moreover problems are faced by the ones who are re-located and requires the services immediately, so it gets quite tedious to look for home repairs and service providers. To overcome these problems there is a common platform where people can search for the various house repair services on their demand.  
